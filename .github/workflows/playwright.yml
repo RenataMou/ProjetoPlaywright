@@ -26,7 +26,7 @@ jobs:
         run: npx playwright install --with-deps
 
       - name: Rodar testes (Chromium)
-        run: npx playwright test --project=chromium
+        run: npx playwright test --project=Chromium
 
       - name: Publicar relatório HTML
         if: always()
@@ -35,6 +35,3 @@ jobs:
           name: playwright-report
           path: playwright-report/
 
-        with:
-          name: playwright-report-${{ matrix.browser }}
-          path: playwright-report/
