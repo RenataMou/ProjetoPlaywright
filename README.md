@@ -4,10 +4,10 @@ Este é um projeto base simples para praticar automação de testes com Playwrig
 
 ## Objetivo
 
-Demonstrar conhecimentos fundamentais em automação de testes, implementando:
+Demonstrar como iniciar um projeto inicial em automação de testes, implementando:
 - Padrão Page Object Model (POM)
 - Estrutura Arrange-Act-Assert (AAA)
-- Organização profissional de código
+- Organização de código
 - Boas práticas de automação
 
 ## Estrutura do Projeto
