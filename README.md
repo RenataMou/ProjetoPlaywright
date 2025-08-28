@@ -32,7 +32,7 @@ Demonstrar como iniciar um projeto inicial em automação de testes, implementan
 | CT002 | Cadastrar com email existente     | Reutilizar email do CT001      | Mensagem "Este email já está sendo usado"  |
 | CT003 | Cadastrar com dados de fixture    | Dados da fixture + email único | Mensagem de sucesso                        |
 
-## Continuação do Plano de Teste: https://github.com/RenataMou/ProjetoPlaywright/blob/main/Plano-de-Teste.md
+# Continuação do Plano de Teste: https://github.com/RenataMou/ProjetoPlaywright/blob/main/Plano-de-Teste.md
 
 ## Estrutura do Projeto
 
