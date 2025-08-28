@@ -10,6 +10,32 @@ Demonstrar como iniciar um projeto inicial em automação de testes, implementan
 - Organização de código
 - Boas práticas de automação
 
+## Criação de Plano de Teste 
+
+# Plano de Testes - Automação Playwright
+
+## Informações Gerais
+
+**Aplicação:** Serverest (https://front.serverest.dev/)  
+**Framework:** Playwright + JavaScript  
+**Padrões:** Page Object Model (POM) + Arrange-Act-Assert (AAA)
+
+---
+
+## Casos de Teste Implementados
+
+### 1. Cadastro de Usuário
+
+**Arquivo:** `cadastro.spec.js`
+
+| ID    | Cenário                           | Dados                          | Resultado Esperado                         |
+|-------|-----------------------------------|--------------------------------|--------------------------------------------|
+| CT001 | Cadastrar novo usuário            | Dados dinâmicos únicos         | Mensagem "Cadastro realizado com sucesso"  |
+| CT002 | Cadastrar com email existente     | Reutilizar email do CT001      | Mensagem "Este email já está sendo usado"  |
+| CT003 | Cadastrar com dados de fixture    | Dados da fixture + email único | Mensagem de sucesso                        |
+
+## Continuação do Plano de Teste: https://github.com/RenataMou/ProjetoPlaywright/blob/main/Plano-de-Teste.md
+
 ## Estrutura do Projeto
 
 ```
