@@ -1,6 +1,6 @@
-# Projeto Base - Automação com Playwright
+# Projeto - Automação com Playwright
 
-Este é um projeto base simples para praticar automação de testes com Playwright e JavaScript, usando o site [Serverest](https://front.serverest.dev/) como aplicação de teste.
+Este é um projeto simples para praticar automação de testes com Playwright e JavaScript, usando o site [Serverest](https://front.serverest.dev/) como aplicação de teste.
 
 ## Objetivo
 
