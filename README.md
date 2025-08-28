@@ -12,8 +12,6 @@ Demonstrar como iniciar um projeto inicial em automação de testes, implementan
 
 ## Criação de Plano de Teste 
 
-# Plano de Testes - Automação Playwright
-
 ## Informações Gerais
 
 **Aplicação:** Serverest (https://front.serverest.dev/)  
