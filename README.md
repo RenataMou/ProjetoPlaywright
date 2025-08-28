@@ -11,16 +11,7 @@ Demonstrar como iniciar um projeto inicial em automação de testes, implementan
 - Boas práticas de automação
 
 ## Criação de Plano de Teste 
-
-## Informações Gerais
-
-**Aplicação:** Serverest (https://front.serverest.dev/)  
-**Framework:** Playwright + JavaScript  
-**Padrões:** Page Object Model (POM) + Arrange-Act-Assert (AAA)
-
 ---
-
-## Casos de Teste Implementados
 
 ### 1. Cadastro de Usuário
 
@@ -32,7 +23,7 @@ Demonstrar como iniciar um projeto inicial em automação de testes, implementan
 | CT002 | Cadastrar com email existente     | Reutilizar email do CT001      | Mensagem "Este email já está sendo usado"  |
 | CT003 | Cadastrar com dados de fixture    | Dados da fixture + email único | Mensagem de sucesso                        |
 
-# Continuação do Plano de Teste: https://github.com/RenataMou/ProjetoPlaywright/blob/main/Plano-de-Teste.md
+Continuação do Plano de Teste: https://github.com/RenataMou/ProjetoPlaywright/blob/main/Plano-de-Teste.md
 
 ## Estrutura do Projeto
 
